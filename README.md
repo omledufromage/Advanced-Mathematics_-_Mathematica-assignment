@@ -1,5 +1,4 @@
-Advanced Mathematics -- Mathematica Assignment
-==============================================
+## Advanced Mathematics — Mathematica Assignment
 
 This was an assignment for Advanced Mathematics for Business and Technology, a course taught by Prof. Vincent Ginis at the Vrije Universiteit Brussel (VUB). It covered series (including Taylor and Fourier), dynamic systems analysis and gave a short introduction into chaos theory.  
 
